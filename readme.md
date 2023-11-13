@@ -18,10 +18,5 @@ Al finalizar el ejercicio (cuando todos los alumnos hayan mandado el PR) debes a
 PON AQUÍ TU NOMBRE:
 
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
-* [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
-* [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
-* [NGR](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/NGR.md)
-* [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
-* [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
-* [JC](https://github.com/jcarlos03/IAW-GIT-PR-JC/blob/main/files/JC.md)
+* [LA](https://github.com/Orflo/IAW-GIT-PR/blob/rama1/files/LA.md)
 
