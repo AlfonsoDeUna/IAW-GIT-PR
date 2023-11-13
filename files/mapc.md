@@ -15,7 +15,7 @@
 > ASO
 >
 >> Puede ser debido a los códigos que somos capaces de desarrollar como puede ser un `Get-Process` que puede ser bastante útil.
->
+
 > IAW
 >
 >> Realmente se nota que se enfoca en ver y enfocar bastantes temas para que aprendamos e investiguemos como puede ser los links de esta tabla.
