@@ -1,0 +1,8 @@
+**ASO me gusta porque, aprendemos bastantes cosas nuevas en las clases siempre estamos aprendiendo algo y nos vale para el futuro y llaman la atención las prácticas como en IAW, ambos profesores se lo curran por lo tanto las dos asignaturas gustan, se aprende y son clases prácticas, divertidas y llamativas para los alumnos.**
+*ASO me gusta porque, aprendemos bastantes cosas nuevas en las clases siempre estamos aprendiendo algo y nos vale para el futuro y llaman la atención las prácticas como en IAW, ambos profesores se lo curran por lo tanto las dos asignaturas gustan, se aprende y son clases prácticas, divertidas y llamativas para los alumnos.*
+## ASO me gusta porque, aprendemos bastantes cosas nuevas en las clases siempre estamos aprendiendo algo y nos vale para el futuro y llaman la atención las prácticas como en IAW, ambos profesores se lo curran por lo tanto las dos asignaturas gustan, se aprende y son clases prácticas, divertidas y llamativas para los alumnos.
+1. ASO me gusta porque, aprendemos bastantes cosas nuevas en las clases siempre estamos aprendiendo algo.
+2. Nos vale para el futuro y llaman la atención las prácticas como en IAW.
+3. Ambos profesores se lo curran por lo tanto las dos asignaturas gustan.
+4. Se aprende y son clases prácticas, divertidas y llamativas para los alumnos.
+> ASO me gusta porque, aprendemos bastantes cosas nuevas en las clases siempre estamos aprendiendo algo y nos vale para el futuro y llaman la atención las prácticas como en IAW, ambos profesores se lo curran por lo tanto las dos asignaturas gustan, se aprende y son clases prácticas, divertidas y llamativas para los alumnos.
