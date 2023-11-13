@@ -20,4 +20,8 @@ PON AQUÍ TU NOMBRE:
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
 * [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
 * [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
+* [NGR](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/NGR.md)
+* [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
+* [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
 * [JC](https://github.com/jcarlos03/IAW-GIT-PR-JC/blob/main/files/JC.md)
+
