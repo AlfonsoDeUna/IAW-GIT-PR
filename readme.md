@@ -16,5 +16,15 @@ Los pasos fundamentales (con instrucciones) para realizar el pull request.
 Al finalizar el ejercicio (cuando todos los alumnos hayan mandado el PR) debes actualizar tu repositorio remoto y enviarme la URL para que yo lo pueda comprobar.
 
 PON AQUÍ TU NOMBRE:
+
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
 * [SMC](https://github.com/MrSMCs/IAW-GIT-PR/blob/main/files/SMC.md)
+* [DGC](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/DGC.md)
+* [DGB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/DGB.md)
+* [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
+* [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
+* [NGR](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/NGR.md)
+* [CGL](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/CGL.md)
+* [SFS](https://github.com/SergioNetCo/IAW-GIT-PR/tree/ramaSergioF/files/sfs.md)
+* [JC](https://github.com/jcarlos03/IAW-GIT-PR-JC/blob/main/files/JC.md)
+* [LA](https://github.com/Orflo/IAW-GIT-PR/blob/rama1/files/LA.md)
