@@ -17,4 +17,4 @@ Al finalizar el ejercicio (cuando todos los alumnos hayan mandado el PR) debes a
 
 PON AQUÍ TU NOMBRE:
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
-* [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
+* [JC](https://github.com/AlfonsoDeUna/IAW-GIT-PR-JC/blob/main/files/JC.md)
