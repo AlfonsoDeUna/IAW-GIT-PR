@@ -20,6 +20,6 @@ Al finalizar el ejercicio (cuando todos los alumnos hayan mandado el PR) debes a
 
 PON AQUÍ TU NOMBRE: 
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
-* [MGB](https://github.com/MarioGonzalezBarbero/IAW-GIT-PR)
+* [MGB](https://github.com/MarioGonzalezBarbero/IAW-GIT-PR/tree/mgb/files)
 
 
