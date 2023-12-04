@@ -2,6 +2,7 @@
 PON AQUÍ TU NOMBRE:
 
 * [AUB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
+* [MAPC](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/mapc.md)
 * [SMC](https://github.com/MrSMCs/IAW-GIT-PR/blob/main/files/SMC.md)
 * [DGC](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/DGC.md)
 * [DGB](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/DGB.md)
@@ -15,3 +16,6 @@ PON AQUÍ TU NOMBRE:
 * [JC](https://github.com/jcarlos03/IAW-GIT-PR-JC/blob/main/files/JC.md)
 * [LA](https://github.com/Orflo/IAW-GIT-PR/blob/rama1/files/LA.md)
 * [IPP](https://github.com/ismaelperalta/IAW-GIT-PR/blob/trabajo_final/files/IPP.md)
+* [GGPV](https://github.com/George20-03/IAW-GIT-PR/tree/main/files/GGPV.md)
+* [JGG](https://github.com/jesusggarcia/IAW-GIT-PR/tree/main/files/JGG.md)
+
